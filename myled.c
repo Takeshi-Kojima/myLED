@@ -7,7 +7,7 @@
 #include <linux/timer.h>
 #include <asm/delay.h>
 #include <linux/delay.h>
-MODULE_AUTHOR("Takashi Koseki");
+MODULE_AUTHOR("Takeshi Kojima");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
