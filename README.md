@@ -12,8 +12,8 @@ $ sudo reboot
 ```
 ## 使用方法
 ```
-$ git clone https://github.com/komakou/robosyskadai1.git
-$ cd robosyskadai1
+$ git clone https://github.com/Takeshi-Kojima/myled.git
+$ cd myled
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
